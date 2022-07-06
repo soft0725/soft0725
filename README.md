@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
-- 심심해
-- 우아아ㅏ아
-- 파이썬 배우는 중 . . . 
+부산소프트웨어 마이스터 고등학교 2기
+
+취미 : 프로그램 구상 , 프로그램 짜기 
+좋아 하는 것 : 자동차 ( 아우디 )
+
 <!---
 soft0725/soft0725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
