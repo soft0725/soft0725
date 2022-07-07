@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725&hide=contribs,prs)
 
 <div align=center>
-  SNS
+  SNS<br>
   <a href="https://www.instagram.com/b_.chan7/"><img src="https://img.shields.io/badge/Instagram-E4405F?  style=flatsquare&logo=white&logoColor=white&link=https://www.instagram.com/b_.chan7/"/></a>
 </div>
 
