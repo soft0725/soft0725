@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23897860&title_bg=%233366FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=%EC%95%88%EB%87%BD&edge_flat=true)](https://hits.seeyoufarm.com)                   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 부산소프트웨어 마이스터 고등학교 2기
 
