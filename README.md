@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ByungchanKim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=300&section=header&text=ByungchanKim&fontSize=90)
 부산소프트웨어 마이스터 고등학교 2기
 
 취미 : 프로그램 구상 , 프로그램 짜기 
