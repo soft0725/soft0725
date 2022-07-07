@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=350&color=0:EEFF00,100:a82da8&text=welcome%20&desc=byungchan%20Github%20&fontColor=FFFFFF)
 
 좋아 하는 것 : 자동차
 
