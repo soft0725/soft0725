@@ -18,6 +18,7 @@
         <br><br><br><br>
     <h3>👉 My</h3>
         <a href="https://www.instagram.com/b_.chan7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=Instagram&logo=Instagram&logoColor=E4405F"/></a>
+        <a href="https://chan0725-coding-diary.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black"/></a>
         <img src="https://img.shields.io/badge/byungchan0725@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 
