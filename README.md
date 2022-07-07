@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 부산소프트웨어 마이스터 고등학교 2기
 
 취미 : 프로그램 구상 , 프로그램 짜기 
