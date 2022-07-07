@@ -1,7 +1,7 @@
 부산소프트웨어 마이스터 고등학교 2기
 
 취미 : 프로그램 구상 , 프로그램 짜기 
-좋아 하는 것 : 자동차 ( 아우디 )
+좋아 하는 것 : 자동차
 
 <!---
 soft0725/soft0725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
