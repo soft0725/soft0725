@@ -1,7 +1,7 @@
 <div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=310&color=0:EEFF00,100:a82da8&text=welcome%20&desc=byungchan's%20Github%20&fontColor=FFFFFF)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725&hide=contribs,prs)
-</
+</div>
 <a href="https://www.instagram.com/b_.chan7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=white&logoColor=white&link=https://www.instagram.com/b_.chan7/"/></a>
 
 
