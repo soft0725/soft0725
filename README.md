@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725&hide=contribs,prs)
 
 <div align=center>
-<a href="https://www.instagram.com/b_.chan7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=white&logoColor=white&link=https://www.instagram.com/b_.chan7/"/></a>
+  SNS
+  <a href="https://www.instagram.com/b_.chan7/"><img src="https://img.shields.io/badge/Instagram-E4405F?  style=flatsquare&logo=white&logoColor=white&link=https://www.instagram.com/b_.chan7/"/></a>
 </div>
 
 <!---
