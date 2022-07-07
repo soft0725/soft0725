@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ByungchanKim&fontSize=90)
-취미 : 프로그램 구상 , 프로그램 짜기 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome%20&fontSize=90)
 
 좋아 하는 것 : 자동차
 
