@@ -1,3 +1,4 @@
+<div align="center">
 # KIM BYUNG CHAN 🙂
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan0725)](https://solved.ac/chan0725/)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +23,4 @@
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram-&link=https://www.instagram.com/b_.chan7/)](https://www.instagram.com/b_.chan7/)
 [![Tistory](https://img.shields.io/badge/-Tistory-black?style=flat-square&logo=&link=https://chan0725-coding-diary.tistory.com/)](https://chan0725-coding-diary.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byungchan0725@gmail.com)](mailto:byungchan0725@gmail.com)
-#
+</div>
