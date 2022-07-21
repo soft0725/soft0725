@@ -1,7 +1,7 @@
-<div align="center">
+
 # KIM BYUNG CHAN 🙂
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan0725)](https://solved.ac/chan0725/)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
 # 👊 Skills
 ### Languages
 
