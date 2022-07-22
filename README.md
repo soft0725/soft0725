@@ -1,9 +1,14 @@
 <div align="center">
-  <h1> KIM BYUNG CHAN 🙂 </h1><br>
+  <span>
+    <h1> KIM BYUNG CHAN 🙂 </h1>
+  </span>
+</div><br><br>
+
+<div align="center">
   <b>저는 현재 부산소프트웨어마이스트고등학교에 재학중이며 임베디드과를 희망하고 있습니다!</b><br>
   <b>현재는 파이썬을 배우고 있으며 AI 분야의 인재로 성장하고 싶습니다!</b>
-  
-</div>
+</div><br>
+
 
 <div align="center"> 
 
