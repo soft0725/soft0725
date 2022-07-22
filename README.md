@@ -36,6 +36,6 @@
 [![Tistory](https://img.shields.io/badge/-Tistory-black?style=flat-square&logo=&link=https://chan0725-coding-diary.tistory.com/)](https://chan0725-coding-diary.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byungchan0725@gmail.com)](mailto:byungchan0725@gmail.com)<br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft0725&layout=compact)](https://github.com/soft0725/github-readme-stats)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft0725&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft0725&layout=compact&theme=swift&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
